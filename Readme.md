@@ -8,7 +8,7 @@ The project itself was developed entirely on Google Colab, aiming to use GPU pow
 ### Structure
 This repo is made of 3 folders:
 * Data:
-    > Contains all the data files used in the project:
+    > Contains all the data files used in the project:<br>
         >> Given files
         >> Translated files (from Russian to English)
         >> Preprocessed files
