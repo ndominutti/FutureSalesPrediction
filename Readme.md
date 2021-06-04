@@ -9,14 +9,13 @@ The project itself was developed entirely on Google Colab, aiming to use GPU pow
 This repo is made of 3 folders:
 * Data:
     > Contains all the data files used in the project:<br>
-        >> Given files
-        >> Translated files (from Russian to English)
-        >> Preprocessed files
+        >> Given files<br>
+        >> Translated files (from Russian to English)<br>
+        >> Preprocessed files<br>
 * Preprocessing
     > Contains Translation, EDA and Preprocessing files
 * Modeling
     > Contains LightGBM, XGBoost and Stacking (on Linear Regression) files and serialized models
-
-
+<br><br>
 Beware that the file df_preprocessed.pkl is not in the repo as it was +500MB, to retrain the models you'll need to generate it running the Preprocessing file
 
