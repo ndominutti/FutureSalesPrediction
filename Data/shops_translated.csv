@@ -1,61 +1,61 @@
-,shop_name,shop_id,city
-0,"! Yakutsk Ordzhonikidze, 56 fran",0,YAKUTSK
-1,"! Yakutsk shopping center ""Central"" Fran",1,YAKUTSK
-2,"Adygea shopping center ""Mega""",2,ADYGEA
-3,"Balashiha TRK ""October-Kinomir""",3,BALASHIHA
-4,"Volzhsky shopping center ""Volga Mall""",4,VOLZHSKY
-5,"Vologda TRC ""Marmalad""",5,VOLOGDA
-6,"Voronezh (Plekhanovskaya, 13)",6,VORONEZH
-7,"Voronezh Trec ""Maximir""",7,VORONEZH
-8,"Voronež TRC City Park ""Town""",8,VORONEZH
-9,Exit trade,9,OTHER
-10,Zhukovsky st. Chkalova 39m?,10,ZHUKOVSKY
-11,Zhukovsky st. Chkalova 39m²,11,ZHUKOVSKY
-12,Online store emergency,12,OTHER
-13,"Kazan TC ""BEHETLE""",13,KAZAN
-14,"Kazan shopping center ""Parkhouse"" II",14,KAZAN
-15,"Kaluga TPC ""XXI Century""",15,KALUGA
-16,"Kolo TC ""RIO""",16,KOLO
-17,"Krasnoyarsk shopping center ""Plaza Upbet""",17,KRASNOYARSK
-18,"Krasnoyarsk TC ""June""",18,KRASNOYARSK
-19,"Kursk shopping center ""Pushkinsky""",19,KURSK
-20,"Moscow ""Sale""",20,MOSCOW
-21,"Moscow MTRC ""AFI MALL""",21,MOSCOW
-22,Moscow Shop C21,22,MOSCOW
-23,"Moscow TK ""Budenovsky"" (Pav.A2)",23,MOSCOW
-24,"Moscow TK ""Budenovsky"" (Pav.K7)",24,MOSCOW
-25,"Moscow TRK ""Atrium""",25,MOSCOW
-26,"Moscow TC ""Area"" (Belyaevo)",26,MOSCOW
-27,"Moscow TC ""Mega White Dacha II""",27,MOSCOW
-28,"Moscow TC ""Mega Teply Stan"" II",28,MOSCOW
-29,"Moscow shopping center ""New Century"" (Novokosino)",29,MOSCOW
-30,"Moscow TP ""Perlovski""",30,MOSCOW
-31,"Moscow TC ""Semenovsky""",31,MOSCOW
-32,"Moscow shopping center ""Silver House""",32,MOSCOW
-33,"Mytishchi TRK ""XL-3""",33,MYTISHCHI
-34,"N.Novgorod TK ""Rio""",34,N.NOVGOROD
-35,"N.Novgorod TPC ""Fantasy""",35,N.NOVGOROD
-36,"Novosibirsk shopping center ""Gallery Novosibirsk""",36,NOVOSIBIRSK
-37,"Novosibirsk Tc ""Mega""",37,NOVOSIBIRSK
-38,"Omsk Tc ""Mega""",38,OMSK
-39,"Rostnone TRK ""Megacentr Horizont""",39,ROSTNONE
-40,"Rostov on the Don TRK ""Megcenter Horizon"" island",40,ROSTOV
-41,"Rostovnadon Tc ""Mega""",41,ROSTOV
-42,"SPB TK ""Nevsky Center""",42,SPB
-43,"SPb TK ""SENS""",43,SPB
-44,"Samara Tz ""Melody""",44,SAMARA
-45,"Samara TC ""Parkhaus""",45,SAMARA
-46,"Sergiev Pozad TC ""7I""",46,SERGIEV
-47,"Surgut TRC ""City Mall""",47,SURGUT
-48,"Tomsk TRC ""Emerald City""",48,TOMSK
-49,"Tyumen shopping center ""Crystal""",49,TYUMEN
-50,"Tyumen shopping center ""Goodwin""",50,TYUMEN
-51,"Tyumen shopping center ""Green Beach""",51,TYUMEN
-52,"Ufa TC ""Central""",52,UFA
-53,"Ufa TC ""Family"" 2",53,UFA
-54,"Himki Tc ""Mega""",54,HIMKI
-55,1c-online digital warehouse,55,OTHER
-56,"Chekhov shopping center ""Carnival""",56,CHEKHOV
-57,"Yakutsk Ordzhonikidze, 56",57,YAKUTSK
-58,"Yakutsk shopping center ""Central""",58,YAKUTSK
-59,"Yaroslavl shopping center ""Altair""",59,YAROSLAVL
+,shop_name,shop_id
+0,"! Yakutsk Ordzhonikidze, 56 fran",0
+1,"! Yakutsk shopping center ""Central"" Fran",1
+2,"Adygea shopping center ""Mega""",2
+3,"Balashiha TRK ""October-Kinomir""",3
+4,"Volzhsky shopping center ""Volga Mall""",4
+5,"Vologda TRC ""Marmalad""",5
+6,"Voronezh (Plekhanovskaya, 13)",6
+7,"Voronezh Trec ""Maximir""",7
+8,"Voronež TRC City Park ""Town""",8
+9,Exit trade,9
+10,Zhukovsky st. Chkalova 39m?,10
+11,Zhukovsky st. Chkalova 39m²,11
+12,Online store emergency,12
+13,"Kazan TC ""BEHETLE""",13
+14,"Kazan shopping center ""Parkhouse"" II",14
+15,"Kaluga TPC ""XXI Century""",15
+16,"Kolo TC ""RIO""",16
+17,"Krasnoyarsk shopping center ""Plaza Upbet""",17
+18,"Krasnoyarsk TC ""June""",18
+19,"Kursk shopping center ""Pushkinsky""",19
+20,"Moscow ""Sale""",20
+21,"Moscow MTRC ""AFI MALL""",21
+22,Moscow Shop C21,22
+23,"Moscow TK ""Budenovsky"" (Pav.A2)",23
+24,"Moscow TK ""Budenovsky"" (Pav.K7)",24
+25,"Moscow TRK ""Atrium""",25
+26,"Moscow TC ""Area"" (Belyaevo)",26
+27,"Moscow TC ""Mega White Dacha II""",27
+28,"Moscow TC ""Mega Teply Stan"" II",28
+29,"Moscow shopping center ""New Century"" (Novokosino)",29
+30,"Moscow TP ""Perlovski""",30
+31,"Moscow TC ""Semenovsky""",31
+32,"Moscow shopping center ""Silver House""",32
+33,"Mytishchi TRK ""XL-3""",33
+34,"N.Novgorod TK ""Rio""",34
+35,"N.Novgorod TPC ""Fantasy""",35
+36,"Novosibirsk shopping center ""Gallery Novosibirsk""",36
+37,"Novosibirsk Tc ""Mega""",37
+38,"Omsk Tc ""Mega""",38
+39,"Rostnone TRK ""Megacentr Horizont""",39
+40,"Rostov on the Don TRK ""Megcenter Horizon"" island",40
+41,"Rostovnadon Tc ""Mega""",41
+42,"SPB TK ""Nevsky Center""",42
+43,"SPb TK ""SENS""",43
+44,"Samara Tz ""Melody""",44
+45,"Samara TC ""Parkhaus""",45
+46,"Sergiev Pozad TC ""7I""",46
+47,"Surgut TRC ""City Mall""",47
+48,"Tomsk TRC ""Emerald City""",48
+49,"Tyumen shopping center ""Crystal""",49
+50,"Tyumen shopping center ""Goodwin""",50
+51,"Tyumen shopping center ""Green Beach""",51
+52,"Ufa TK ""Central""",52
+53,"Ufa TC ""Family"" 2",53
+54,"Himki Tc ""Mega""",54
+55,1c-online digital warehouse,55
+56,"Chekhov shopping center ""Carnival""",56
+57,"Yakutsk Ordzhonikidze, 56",57
+58,"Yakutsk shopping center ""Central""",58
+59,"Yaroslavl shopping center ""Altair""",59
